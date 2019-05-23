@@ -1,4 +1,4 @@
-package com.example.rushd.galleryproject;
+package com.mixone.computing.yoseidoshiatsugallery;
 
 import org.junit.Test;
 

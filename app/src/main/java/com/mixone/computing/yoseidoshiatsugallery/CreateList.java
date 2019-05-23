@@ -1,7 +1,7 @@
-package com.example.rushd.galleryproject;
+package com.mixone.computing.yoseidoshiatsugallery;
 
 /**
- * Created by rushd on 29/09/2016.
+ * Created by computing on 29/09/2016.
  */
 
 public class CreateList {
